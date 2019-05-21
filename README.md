@@ -47,7 +47,7 @@ So if you do not have them installed, use your package manager, e.g. for Debian/
 sudo apt install cmake make gcc
 ```
 
-You can [download a sapshot of the repository](https://github.com/srg-imperial/SaBRe/archive/master.zip) or clone it if you have `git` installed:
+You can [download a snapshot of the repository](https://github.com/srg-imperial/SaBRe/archive/master.zip) or clone it if you have `git` installed:
 
 ```bash
 git clone https://github.com/srg-imperial/SaBRe
